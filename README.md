@@ -2,6 +2,29 @@
 
 Aplikasi ini merupakan contoh implementasi fullstack yang terdiri dari backend Laravel dan frontend Android menggunakan Jetpack Compose. Aplikasi ini memungkinkan pengguna untuk mengelola data siswa, melakukan autentikasi, dan menyimpan data ke daftar favorit.
 
+## ✨ Fitur
+
+### ✅ Manajemen Pengguna
+
+Admin dapat menambahkan, mengedit, dan menghapus pengguna.
+
+Role-based access untuk mengontrol fitur yang bisa diakses oleh masing-masing peran.
+
+
+### ✅ Manajemen Data Akademik
+
+- Guru dapat menginput nilai dan absensi siswa.
+- Siswa dapat melihat jadwal, nilai, dan absensi mereka.
+
+### ✅ Autentikasi & Otorisasi
+
+- Sistem login dengan validasi berbasis peran.
+- Middleware untuk membatasi akses fitur berdasarkan peran.
+
+### ✅ Dashboard Interaktif
+
+- Tampilan UI yang intuitif untuk masing-masing peran (Admin, Teacher, dan Student).
+
 ## 1. Setup Backend Laravel
 
 ### 1.1. Menjalankan Laravel
