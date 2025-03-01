@@ -29,6 +29,8 @@ Role-based access untuk mengontrol fitur yang bisa diakses oleh masing-masing pe
 
 ### 1.1. Menjalankan Laravel
 
+Link Guide ```https://drive.google.com/file/d/1ESD0gGXJmZiAfhUs4LVieROqP-OzIsCa/view?usp=sharing```
+
 Untuk menjalankan backend Laravel, ikuti langkah-langkah berikut:
 
 1.  **Instal Laravel (Jika belum terinstal):**
@@ -44,7 +46,7 @@ Untuk menjalankan backend Laravel, ikuti langkah-langkah berikut:
     Clone repository backend dari GitHub:
 
     ```bash
-    git clone [https://github.com/NoBody313/StudentManagement-API.git](https://github.com/NoBody313/StudentManagement-API.git)
+    git clone https://github.com/NoBody313/StudentManagement-API.git
     ```
 
 3.  **Install Dependencies:**
