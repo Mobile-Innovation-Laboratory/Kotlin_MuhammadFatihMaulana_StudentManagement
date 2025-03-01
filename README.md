@@ -423,7 +423,7 @@ Untuk memberikan gambaran lebih jelas mengenai tampilan aplikasi, berikut adalah
 *   **Tampilan Daftar Siswa**
 *   **Tampilan Daftar Favorite**
 
-| ![image](https://github.com/user-attachments/assets/b8b31aba-c515-47f0-a06e-cf57d099d27e) | ![image](https://github.com/user-attachments/assets/5ec4a98a-2cfb-4f0a-af96-4dc76d626ae4) | ![image](https://github.com/user-attachments/assets/f8beb1ae-c57b-43ef-9339-7976f07c6d74)
+| ![image](https://github.com/user-attachments/assets/b8b31aba-c515-47f0-a06e-cf57d099d27e) |  | ![image](https://github.com/user-attachments/assets/f8beb1ae-c57b-43ef-9339-7976f07c6d74)
 | :---: | :---: | :---: |
 | ![image](https://github.com/user-attachments/assets/ba386d8c-53f9-4957-88c5-9b45cc587ed4) | ![image](https://github.com/user-attachments/assets/2c3b9d8e-4142-4e98-94bb-24e3d0013a32) | ![image](https://github.com/user-attachments/assets/bdc04515-0be2-45c9-a41a-b79cf57ae9f9)
 
