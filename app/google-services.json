@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426500992834",
+    "project_id": "studentmanagementtubes",
+    "storage_bucket": "studentmanagementtubes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426500992834:android:26b59bb1a791ea7791e2db",
+        "android_client_info": {
+          "package_name": "com.anomali.studentmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADVwIHGXlL55cvI3okaX1KV7UgNWYCMNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
