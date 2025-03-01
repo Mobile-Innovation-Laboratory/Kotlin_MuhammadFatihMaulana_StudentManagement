@@ -423,9 +423,17 @@ Untuk memberikan gambaran lebih jelas mengenai tampilan aplikasi, berikut adalah
 *   **Tampilan Daftar Siswa**
 *   **Tampilan Daftar Favorite**
 
-| ![image](https://github.com/user-attachments/assets/b8b31aba-c515-47f0-a06e-cf57d099d27e) |  | ![image](https://github.com/user-attachments/assets/f8beb1ae-c57b-43ef-9339-7976f07c6d74)
-| :---: | :---: | :---: |
-| ![image](https://github.com/user-attachments/assets/ba386d8c-53f9-4957-88c5-9b45cc587ed4) | ![image](https://github.com/user-attachments/assets/2c3b9d8e-4142-4e98-94bb-24e3d0013a32) | ![image](https://github.com/user-attachments/assets/bdc04515-0be2-45c9-a41a-b79cf57ae9f9)
+| ![WhatsApp Image 2025-03-02 at 00 13 28_7e7c25d3](https://github.com/user-attachments/assets/148f3029-9b8c-445a-9711-cf8554740ba9) | ![WhatsApp Image 2025-03-02 at 00 05 39_840194c6](https://github.com/user-attachments/assets/20cf4713-080b-402a-b09e-0156e36a0092) | ![WhatsApp Image 2025-03-02 at 00 05 39_7f7ae1e6](https://github.com/user-attachments/assets/5a905473-b7ec-4557-9547-e4e31dfbfeeb) |
+|:---:|:---:|:---:|
+| ![WhatsApp Image 2025-03-02 at 00 05 40_c62de848](https://github.com/user-attachments/assets/599ec8ae-1382-41c7-91d6-55c6244e4dea) | ![WhatsApp Image 2025-03-02 at 00 05 40_8a88d930](https://github.com/user-attachments/assets/1290edf2-2274-445b-bea6-3bdde2bb7fb2) | ![WhatsApp Image 2025-03-02 at 00 05 40_4e34fc86](https://github.com/user-attachments/assets/7e0f60fe-d9a3-450e-b9ef-880b3607cdbc) |
+| ![WhatsApp Image 2025-03-02 at 00 05 41_a70d6cf6](https://github.com/user-attachments/assets/53a0ecc6-b780-4932-a52d-605cd5b9ea67) | ![WhatsApp Image 2025-03-02 at 00 05 41_622a8406](https://github.com/user-attachments/assets/513ac3a3-3ed5-47e7-8ff8-8c34d1ddeace) | ![WhatsApp Image 2025-03-02 at 00 05 41_b21627d7](https://github.com/user-attachments/assets/c79f89e3-66c4-4245-85e3-0749f8bad6e7) |
+| ![WhatsApp Image 2025-03-02 at 00 05 41_0b79309d](https://github.com/user-attachments/assets/9ca045c4-b823-4c93-8f18-d38f5698da68) | ![WhatsApp Image 2025-03-02 at 00 05 42_6471583f](https://github.com/user-attachments/assets/e8f5daf6-345d-4fe6-8b8b-d4636641a7aa) | ![WhatsApp Image 2025-03-02 at 00 05 42_0a957103](https://github.com/user-attachments/assets/5428500c-7441-4372-94f5-10347f9030cd) |
+| ![WhatsApp Image 2025-03-02 at 00 05 42_5b56d85f](https://github.com/user-attachments/assets/42d26b6a-bf66-4dfe-be34-781a2d903600) | ![WhatsApp Image 2025-03-02 at 00 05 43_d5ceb8ef](https://github.com/user-attachments/assets/5b911733-574c-438c-ac2e-d2c4a01b55cb) | ![WhatsApp Image 2025-03-02 at 00 05 44_f76497b7](https://github.com/user-attachments/assets/59068439-d61a-489a-8331-2851db2c60f2) |
+| ![WhatsApp Image 2025-03-02 at 00 05 44_9aa0219a](https://github.com/user-attachments/assets/f8f7a376-701c-448a-940b-f283219acd58) | ![WhatsApp Image 2025-03-02 at 00 05 44_3bff9d6c](https://github.com/user-attachments/assets/9b90afc9-c2bd-49a7-8311-03ad6cbd28ae) | ![WhatsApp Image 2025-03-02 at 00 05 44_9df01ebb](https://github.com/user-attachments/assets/3b6aa2e2-9061-4e87-976d-dc899a0475e5) |
+| ![WhatsApp Image 2025-03-02 at 00 05 45_82394c4f](https://github.com/user-attachments/assets/bba9ab02-76f3-4b32-a503-18573f5c03e0) | ![WhatsApp Image 2025-03-02 at 00 05 45_bb80247a](https://github.com/user-attachments/assets/5407e153-5dc2-490e-a621-955dc8aa6b83) | ![WhatsApp Image 2025-03-02 at 00 05 45_f1af22a5](https://github.com/user-attachments/assets/fbd398dc-2e3f-46df-9de6-447ec47ad866) |
+| ![WhatsApp Image 2025-03-02 at 00 05 45_0b7fb697](https://github.com/user-attachments/assets/6ddc4ce8-4da6-4621-835b-3a441a2100ec) | ![WhatsApp Image 2025-03-02 at 00 05 46_208b0469](https://github.com/user-attachments/assets/0e541e25-08a6-4486-92b5-ed702d9c2b4c) | ![WhatsApp Image 2025-03-02 at 00 05 46_ca374c90](https://github.com/user-attachments/assets/fcaa8b97-3786-4af1-b971-9601b5b0ce47) |
+| ![WhatsApp Image 2025-03-02 at 00 05 46_94bcc544](https://github.com/user-attachments/assets/445a467e-74a7-4c04-bb49-4cfe137092db) |  |  |
+
 
 Dengan mengikuti langkah-langkah ini, aplikasi Android Anda akan dijalankan dan berkomunikasi dengan server backend Laravel.
 
