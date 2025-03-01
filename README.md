@@ -29,7 +29,7 @@ Role-based access untuk mengontrol fitur yang bisa diakses oleh masing-masing pe
 
 ### 1.1. Menjalankan Laravel
 
-Link Guide ```https://drive.google.com/file/d/1ESD0gGXJmZiAfhUs4LVieROqP-OzIsCa/view?usp=sharing```
+Link Video Guide : ```https://drive.google.com/file/d/1ESD0gGXJmZiAfhUs4LVieROqP-OzIsCa/view?usp=sharing```
 
 Untuk menjalankan backend Laravel, ikuti langkah-langkah berikut:
 
